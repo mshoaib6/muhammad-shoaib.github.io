@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm Sheharyar Khalid, a Ph.D. student in Computer Science at the University of Virginia (UVA). My academic journey began with a Bachelor of Science in Computer Science from Lahore University of Management Sciences (LUMS).
+Hello! I'm Muhammad Toaib, a Ph.D. student in Computer Science at the University of Virginia (UVA). My academic journey began with a Bachelor of Science in Computer Science from Lahore University of Management Sciences (LUMS).
 
 My current work aims at improving system performance benchmarks and also earned the Best Poster Award at the UVA CS Research Symposium 2023. Additionally, I explore provenance graphs for system security monitoring, aiming to advance secure system monitoring technologies  .
 
